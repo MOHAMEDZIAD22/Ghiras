@@ -1,0 +1,20 @@
+Copyright (c) 2026 Mohamad Karkoura (محمد قرقورا). All rights reserved.
+
+The source code, design, and original content of the Ghiras (غِراس) application
+are the property of the author. No part of this application may be copied,
+modified, redistributed, republished, or used to build another application
+without prior written permission from the author.
+
+Contact: mkarkora15@gmail.com
+
+Third-party materials included in this application remain under their own terms:
+- The Quran text and classical works (hadith collections, tafsir, Kirmani's
+  "al-Burhan fi Tawjih Mutashabih al-Quran") are quoted from their published editions.
+- Quran_Mutashabihat_Data: CC0.
+- Fonts (KFGQPC Uthmanic Hafs, IBM Plex Sans Arabic, Amiri): their respective
+  font licenses (SIL Open Font License where applicable).
+- Audio recitations and adhan files are streamed from their original providers.
+- Tajweed color data: cpfair/quran-tajweed (CC BY 4.0), mapped onto the KFGQPC Hafs text.
+- Hizb quarters and prostration positions: quran-meta (MIT).
+- Quran speech model (optional, downloaded on demand): tarteel-ai/whisper-base-ar-quran (Apache-2.0),
+  loaded from the ONNX export iqbalaesthetic/Basira (Apache-2.0).

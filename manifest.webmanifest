@@ -1,0 +1,42 @@
+{
+ "id": "./",
+ "name": "غِراس",
+ "short_name": "غِراس",
+ "lang": "ar",
+ "dir": "rtl",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#061615",
+ "theme_color": "#0b5550",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  },
+  {
+   "src": "icons/icon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml"
+  }
+ ],
+ "description": "أذكار الصباح والمساء، والمصحف مع التفسير، ومتابعة الحفظ، والأدعية الصحيحة.",
+ "orientation": "portrait",
+ "categories": [
+  "education",
+  "lifestyle",
+  "books"
+ ]
+}
